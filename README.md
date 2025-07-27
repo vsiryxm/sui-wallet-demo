@@ -27,8 +27,8 @@
 
 ### 克隆项目
 ```bash
-git clone <项目地址>
-cd sui-wallet
+git clone https://github.com/vsiryxm/sui-wallet-demo.git
+cd sui-wallet-demo
 ```
 
 ### 安装依赖
